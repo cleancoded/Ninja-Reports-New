@@ -1,0 +1,213 @@
+img.most {
+    margin-right: 3px;
+    height: 24px;
+    width: 20px;
+}
+li.nav-item {
+    font-size: 15px;
+}
+.row.Analyze {
+    margin-top: 60px;
+}
+img.audit {
+    height: 22px;
+    width: 20px;
+    margin-left: 0px;
+    margin-right: 3px;
+}
+.col-md-5.text-right h5 {
+    font-size: 19px;
+}
+.nav-link {
+    display: block;
+    padding: 10px;
+}
+img.keytrack {
+    width: 22px;
+    height: 24px;
+margin-right: 1px;
+}
+img.base {
+margin-right: 3px;
+}
+img.case {
+margin-right: 3px;
+}
+img.analytics {
+    height: 20px;
+margin-right: 6px;
+    width: 17px;
+    margin-left: 0px;
+}
+span.icons {
+    margin-right: 6px;
+}
+.clear {
+clear: both;
+}
+.pass {
+width: 20%;
+float: left;
+margin-right: 20px; 
+}
+.cta {
+width: 20%;
+float: left;
+margin-right: 20px;
+}
+.mca {
+width: 20%;
+float: left;
+margin-right: 20px;
+}
+.pta {
+width: 20%;
+float: left;
+margin-right: 20px;
+}
+.favicon{
+    display: flex;
+}
+.fav-icon{
+    width: 30px !important;
+    height: 30px !important;
+}
+p.match {
+    margin-bottom: 10px!important;
+}
+@media screen and (min-width: 768px) {
+.side-bar {
+    height: 100%;
+    width: 200px;
+    left: 0;
+    top: 55px;
+    position: fixed;
+}
+.row.top-bar {
+    position: fixed;
+    width: 100%;
+    z-index: 9999;
+}
+}
+@media screen and (max-width: 767px) {
+    .content {
+        width: 320px;
+        height: 200px;
+        left: 50%;
+        margin-left: -210px;
+        overflow: hidden;
+      }
+
+p.match {
+    margin-bottom: 20px!important;
+}
+.col-md-5.text-right h5 {
+    font-size: 16px;
+}
+.clear {
+    margin-top: 50px;
+}
+.sectionmap {
+margin-top: 20px;
+margin-bottom: 110px;
+}
+.pta {
+    width: 21%;
+    font-size: 15px;
+    float: left;
+    margin-right: 20px;
+}
+.cta {
+    width: 21%;
+    float: left;
+    margin-right: 20px;
+    font-size: 14px;
+}
+.pass {
+    width: 21%;
+    font-size: 15px;
+    float: left;
+    margin-right: 20px;
+}.mca {
+    width: 21%;
+    font-size: 15px;
+    float: left;
+    margin-right: 20px;
+}
+.overview {
+    padding: 0px!important;
+}
+.Welcome-two-cols .Quick-col, .Welcome-two-cols .plan-col {
+       margin: 10px;
+    max-width: 100%;
+    border: 1px solid lightgray;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+.row.Welcome-two-cols {
+    margin-bottom: 150px;
+}
+button.btn.btn-primary {
+    margin-top: 10px!important;
+}
+.side-col {
+    min-height: 388px;
+}
+.col-md-12.text-start h5 {
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+.col-md-6.text-right {
+    margin-top: -32px;
+    margin-bottom: 0px;
+}
+
+input#analyze {
+    margin-bottom: 18px;
+}
+.overview .progressbar .progress {
+margin-top: 10px;
+    width: 100%;
+margin-bottom: 10px;
+}
+.overview .Analyze .btn {
+    width: 100%;
+    margin-left: 0%;
+}
+
+h5#url {
+    padding-top: 13px;
+    font-size: 20px;
+}
+.row.audit-text.pt-3.pb-3 h5 {
+    float: left;
+}
+h2 {
+    margin-left: 27px;
+}
+
+table.table {
+    margin-top: 20px;
+}
+input#seo_audit {
+    margin-bottom: 20px;
+}
+.overview .four-cols .col-md-3 {
+    border: 2px solid #f4f4f4;
+    padding: 13px;
+    text-align: center;
+    margin: 5px;
+    max-width: 100%;
+}
+.Back-to-audit {
+    margin-left: 14px;
+    width: 42%;
+    font-weight: 700;
+    font-size: 18px;
+}
+.row.errors-table h4 {
+    margin-top: 22px;
+}
+}
+
+
